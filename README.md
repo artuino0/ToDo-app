@@ -5,6 +5,7 @@
 - Ver tareas finalizadas **(con fecha)** y pendientes
 - Finalizar tareas
 - Borrar tareas
+- Persistencia de datos
 
 # To Do App en consola con NodeJS
 
@@ -28,11 +29,11 @@ Este proyecto permite llevar una lista de tareas por hacer, usando como base un 
 
     $ node app
 
-Con la aplicacion en ejecucion vamos navegar atravez del menu interactivo para ejecutar cada una de las caracteriticas de la aplicacion
+Con la aplicacion en ejecucion vamos navegar a través del menu interactivo para ejecutar cada una de las caracteristicas de la aplicacion.
 
  ### Resultados
 ------------
 
-Podemos crear, borrar, y completar tareas con la interfaz interactiba basada en **inquirer**
+Podemos crear, borrar, y completar tareas con la interfaz interactiba basada en **inquirer**.
 
 #### Proyecto para curso Node: de cero a experto de Fernando Herrera
